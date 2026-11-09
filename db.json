@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "RELAY 5A 12V",
+        "PN": "G5Q-1A4-EL2-HA DC12",
+        "MF": "OMRON"
+      },
+      "MID": "MID20377",
+      "MD": "The G5Q-1A4-EL2-HA is a miniature general-purpose power PCB relay manufactured by Omron (now branded through Aratas / Omron Electronic Components).\n\nKey Specifications & Features\n\n• Relay Type: Miniature electromagnetic PCB power relay (General Purpose)\n• Contact Configuration: SPST-NO (1 Form A)\n• Contact Material: AgSnIn (Silver-tin-indium)\n• Switching / Rated Current: 10 A\n• Inrush Load Capacity (-EL2 type): Handles inrush currents up to 40 A for 100 microseconds (break current up to 1 A)\n• Sealing: Sealed construction\n• Coil Voltage Options: Available in standard DC coil variants (such as 5 VDC, 12 VDC, and 24 VDC)\n• Body Dimensions: Approx. 20.3 × 10.3 × 15.8 mm",
+      "MT": "Electronic Material",
+      "MQNT": 4,
+      "MCost": 193.34,
+      "MQATG": "#CLASS_0",
+      "ML": "110",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20377%2Fmain%2FG5Q-1A4-EL2-HA%20DC12.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20377/main/IMG_20261109_132026.jpg"
+      ]
+    }
+  ]
+}
